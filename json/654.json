@@ -1,0 +1,36 @@
+{
+  "name": "ELF #654",
+  "description": "Welcome here, warriors, will you fight bloody battles to defend the elves? Do you want to explore that bloody land? Then let the future be full of light, and let the whole forest be filled with blood. Weak elves, that's really delicious.",
+  "image": "https://raw.githubusercontent.com/ELF-GAMES/assets/main/images/654.png",
+  "id": 654,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Skeleton",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown eye"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Punishment"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Round shield"
+    },
+    {
+      "trait_type": "Arm",
+      "value": "Akagami"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Vitality Cannon"
+    }
+  ]
+}

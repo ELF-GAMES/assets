@@ -1,0 +1,36 @@
+{
+  "name": "ELF #330",
+  "description": "Welcome here, warriors, will you fight bloody battles to defend the elves? Do you want to explore that bloody land? Then let the future be full of light, and let the whole forest be filled with blood. Weak elves, that's really delicious.",
+  "image": "https://raw.githubusercontent.com/ELF-GAMES/assets/main/images/330.png",
+  "id": 330,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Boulder"
+    },
+    {
+      "trait_type": "Skeleton",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Gray eye"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sonia"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Smart lens"
+    },
+    {
+      "trait_type": "Arm",
+      "value": "Shock"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Vitality Cannon"
+    }
+  ]
+}
