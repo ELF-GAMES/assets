@@ -1,0 +1,36 @@
+{
+  "name": "ELF #873",
+  "description": "Welcome here, warriors, will you fight bloody battles to defend the elves? Do you want to explore that bloody land? Then let the future be full of light, and let the whole forest be filled with blood. Weak elves, that's really delicious.",
+  "image": "https://assets.elf.games/images/873.png",
+  "id": 873,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Boulder"
+    },
+    {
+      "trait_type": "Skeleton",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown eye"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Exterminator"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Wisdom"
+    },
+    {
+      "trait_type": "Arm",
+      "value": "Fall"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Vitality Cannon"
+    }
+  ]
+}

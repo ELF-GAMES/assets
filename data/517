@@ -1,0 +1,36 @@
+{
+  "name": "ELF #517",
+  "description": "Welcome here, warriors, will you fight bloody battles to defend the elves? Do you want to explore that bloody land? Then let the future be full of light, and let the whole forest be filled with blood. Weak elves, that's really delicious.",
+  "image": "https://assets.elf.games/images/517.png",
+  "id": 517,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sunlight"
+    },
+    {
+      "trait_type": "Skeleton",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Gray eye"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flora"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Wisdom"
+    },
+    {
+      "trait_type": "Arm",
+      "value": "Desert"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Phantom pistol"
+    }
+  ]
+}
